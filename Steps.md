@@ -8,7 +8,7 @@ Steps involved in making the solution
 - Configuring external storage with AWS S3 (different for different users)
 - Configuring multi-AZ replication on AWS S3 buckets (optional)
 
-## Steps included in Cloud BAckup System:
+## Steps included in Cloud Backup System:
 - Creating a EC2 instance and installing nextcloud on it
 - Configuring HTTPS on nextcloud for internet access
 - Configuring external storage with same S3 buckets (previously created for rpi backup) for the users in public nextcloud
